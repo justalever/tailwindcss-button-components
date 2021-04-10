@@ -7,7 +7,7 @@ This is a blog post/tutorial for creating button components using Tailwind CSS. 
 Vite makes scaffolding a new project pretty seamless. For the purposes of this guide I'll leverage a basic Vue.js app by passing the vue template during project creation. You can name your project whatever you wish.
 
 ```bash
-yarn create @vitejs/app tailwindjit-tour --template vue
+yarn create @vitejs/app tailwindcss-button-components --template vue
 ```
 
 This should go fetch basic dependencies and create a new folder with a set of folders and files inside. The general idea is that you'll work inside the `src` folder and everything builds to a `dist` folder which will contain all static assets.
