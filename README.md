@@ -1,3 +1,5 @@
+![Tailwind CSS Button Components](https://f001.backblazeb2.com/file/webcrunch/tailwind-css-button-components.jpg)
+
 # Tailwind CSS - Button Components
 
 This is a blog post/tutorial for creating button components using Tailwind CSS. As a bonus we'll leverage some modern tools like Vite and Tailwind's new JIT feature which makes local developement with Tailwind CSS blazing fast.
